@@ -512,8 +512,8 @@ vercel
 
 **🪟 Windows PowerShell:**
 ```powershell
-git clone https://github.com/YOUR-USERNAME/vercel-xhttp-relay.git
-cd vercel-xhttp-relay
+git clone https://github.com/YOUR-USERNAME/vercel-xhttp.git
+cd vercel-xhttp
 vercel
 ```
 
